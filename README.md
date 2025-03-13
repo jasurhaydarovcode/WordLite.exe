@@ -14,13 +14,10 @@
 Quyida **Word Lite** dasturining asosiy funksiyalarini ko‘rishingiz mumkin:
 
 ### 📌 Fayl menyusi
-![File Menu](images/file-menu.png)
+![File Menu](https://github.com/user-attachments/assets/9ba4ac90-3054-41e8-a5b6-0fcb6ef8e0b3)
 
 ### ✂ Tahrirlash menyusi
-![Edit Menu](images/edit-menu.png)
-
-### 🔠 Formatlash menyusi
-![Format Menu](images/format-menu.png)
+![image](https://github.com/user-attachments/assets/2a2e4fe0-31e6-4462-92dc-4644dd198f28)
 
 - **Matn tahrirlash:**  
   ✂ Kesish (**Cut**)  
